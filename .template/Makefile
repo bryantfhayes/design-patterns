@@ -1,7 +1,7 @@
 CC := g++
 SRCDIR := src
 BUILDDIR := build
-TARGET := bin/abstract-factory
+TARGET := bin/PROJECT-NAME
  
 SRCEXT := cpp
 SOURCES := $(shell find $(SRCDIR) -type f -name *.$(SRCEXT))
